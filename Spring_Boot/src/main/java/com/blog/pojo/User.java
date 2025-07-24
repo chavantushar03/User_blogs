@@ -1,4 +1,4 @@
-package com.sunbeam.pojo;
+package com.blog.pojo;
 
 import java.time.LocalDateTime;
 import java.util.List;

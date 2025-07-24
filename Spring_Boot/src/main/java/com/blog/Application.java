@@ -1,4 +1,4 @@
-package com.sunbeam;
+package com.blog;
 
 import org.modelmapper.Conditions;
 import org.modelmapper.ModelMapper;
